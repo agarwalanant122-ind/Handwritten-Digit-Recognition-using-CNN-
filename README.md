@@ -90,5 +90,5 @@ def predict_custom_image(image_path, model):
     img = img.reshape(1, 28, 28, 1)
     
     prediction = model.predict(img)
-    print(f"Predicted Digit: {np.argmax(prediction)}")
+    printf("Predicted Digit: {np.argmax(prediction)}")
 ```
