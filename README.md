@@ -27,8 +27,8 @@ By utilizing **TensorFlow** and the **MNIST dataset** (a collection of $70,000$ 
 ---
 
 ## **🛠️ Tech Stack**
-* **Language:** Python 3.x
-* **Deep Learning:** TensorFlow 2.x, Keras
+* **Language:** Python 3.12
+* **Deep Learning:** TensorFlow, Keras
 * **Data Science:** NumPy
 * **Visualization:** Matplotlib
 
