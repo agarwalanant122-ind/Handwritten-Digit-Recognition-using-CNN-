@@ -1,0 +1,4 @@
+﻿Python 3.12
+TensorFlow
+NumPy
+Matplotlib
